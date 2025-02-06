@@ -1,0 +1,7 @@
+Priority,Ticker,Side,InstrumentType,Region,Account
+1,IBM,buy,swap,,XYZ
+2,,short,,UK,XYZ
+3,,,physical,Europe,XYZ
+3,,short,physical,Europe,ABC
+4,,,*,Europe,ZZZ
+5,,,,,ABC

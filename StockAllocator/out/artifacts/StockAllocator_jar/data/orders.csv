@@ -1,0 +1,6 @@
+Ticker,Side,InstrumentType
+IBM,buy,physical
+AI,buy,physical
+METO,short,physical
+IBM,buy,swap
+AI,short,bond

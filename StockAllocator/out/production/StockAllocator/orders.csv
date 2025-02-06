@@ -1,0 +1,10 @@
+Ticker,Side,InstrumentType
+IBM,buy,physical
+GSK,short,physical
+AI,buy,physical
+MTRO,short,physical
+IBM,buy,swap
+AI,short,physical
+AI,cover,CFD
+xx,short,swap
+IBM,buy,equity swap
